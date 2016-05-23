@@ -13,6 +13,6 @@ on the blockchain. This can already be built using NDOV sources.
 ([More about oracles here](http://blog.oraclize.it/2016/02/18/understanding-oracles/))
 
 More ideas:
-- Using Public Transport Tokens, which equal to 1 km of movement in a vehicle (https://ethereum.org/token)
+- Using Public Transport Tokens, which equal to 1 km of movement in a vehicle. See [ptu_token](ptu_token/README.md) (https://ethereum.org/token)
 - Automatic refunds on delays, based on this token
 - Using "colored" tokens allows purchase with local currencies and settlement between public transport agencies, thereby removing the hassle from individual travellers (http://coloredcoins.org/)
